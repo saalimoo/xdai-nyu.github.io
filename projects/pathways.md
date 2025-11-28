@@ -1,10 +1,10 @@
 # Pathways370
 ## AI-Accompanied Hyperlocalized, Community-Centered Audio Walks
-Sana Alimojamed, Rebeca Arens, Mei Buzzell, Maitreyi Nandhakumar, Ashish Noble
+Sana Alimohamed, Rebeca Arens, Mei Buzzell, Maitreyi Nandhakumar, Ashish Noble
 
 ---
 ### Working Prototype
-https://6293a0b574ed4b49a3e41e0484656989-main.projects.builder.my/welcome
+https://replit.com/@SafinahAli1/integration-mainzip
 
 ### Target Audience
 Any digital literate individual interested in sharing and archiving local community knowledge (ex. Place-based history). 
